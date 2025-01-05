@@ -1,6 +1,6 @@
 # BomberMan in Minecraft Style
 
-![Game Screenshot](image.png)
+![Game Screenshot](./image.png)
 
 ## Overview
 
